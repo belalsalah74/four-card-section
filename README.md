@@ -10,12 +10,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile](./images/sc-mobile.png)
-![Desktop](./images/sc-desktop.png)
+[Mobile](./images/sc-mobile.png)
+[Desktop](./images/sc-desktop.png)
 
 ### Links
 
-- [Live Site URL:](https://belalsalah74.github.io/four-card-section/)
+- [Solution URL](https://www.frontendmentor.io/solutions/four-card-section-1P9dMGA0St)
+- [Live Site URL](https://belalsalah74.github.io/four-card-section/)
 
 ## Author
 
